@@ -1,0 +1,6 @@
+{
+  "name": "Windows 11 WebOS Desktop",
+  "description": "An authentic Windows 11 desktop experience with centered taskbar, start menu, PlayStation Store, Steam, Google Maps, Media Studio, and standalone executable packager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
